@@ -1,2 +1,2 @@
-# allaboutADCPs
+# AllAboutADCPs
 This repository is to discuss/upload ADCP related issues...
